@@ -25,6 +25,12 @@
   align-items: center;
 }
 
+.link {
+  margin-top: 24px;
+  color: #0070f3;
+  text-decoration: none;
+}
+
 .footer img {
   margin-left: 0.5rem;
 }

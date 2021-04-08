@@ -14,3 +14,13 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.react-datepicker__tab-loop {
+  display: none;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 120px 20px;
+}
